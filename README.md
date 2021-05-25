@@ -1,11 +1,6 @@
 # PythonFinance
 
-Estudos do mercado financeiro em Python
-
-
-# PythonBovespa
-
-Repositório dedicado a aplicar estudos, pesquisas e análise de estratégias no Mercado Financeiro Brasileiro (Brazilian Financial Market)
+Estudos dedicados ao mercado financeiro em Python
 
 ## PROJETOS
 
