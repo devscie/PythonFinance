@@ -5,19 +5,37 @@ Estudos dedicados ao mercado financeiro em Python
 ## PROJETOS
 
 1. [Obtendo cotações do Yahoo Finance](https://github.com/devscie/PythonFinance/blob/master/01_Python_Finance.ipynb)<br><br>
+Baixar as cotações de ações e do ÍNDICE BOVESPA do Yahoo Finance e usar na análise de investimentos e trade utilizando PYTHON através o Google Colab.<br><br>
 2. [Definindo intervalos, calculando e plotando médias móveis](https://github.com/devscie/PythonFinance/blob/master/02_Python_Finance.ipynb)<br><br>
+Definir intervalos e calcular e plotar médias móveis nos gráficos.<br><br>
 3. [Calculando Correlação entre DÓLAR e IBOVESPA](https://github.com/devscie/PythonFinance/blob/master/03_Python_Finance.ipynb)<br><br>
+Calcular a correlação entre o Dólar e o Índice Bovespa. E também calcular o IBOVESPA dolarizado.<br><br>
 4. [Simulando uma CARTEIRA DE AÇÕES e comparando com o IBOVESPA](https://github.com/devscie/PythonFinance/blob/master/04_Python_Finance_V2.ipynb)<br><br>
+Simulação de uma carteira de ações teórica e comparo o desempenho com o Índice Bovespa.<br><br>
 5. [Backtesting com Pyfolio](https://github.com/devscie/PythonFinance/blob/master/05_Python_Finance.ipynb)<br><br>
+Calcular o desempenho da carteira de ações. Calcular indicadores de desempenho, Índice Sharpe, Beta, CAGR, Volatilidade Anual e Drawdown.<br><br>
 6. [Simulando Carteiras Aleatórias de Ações](https://github.com/devscie/PythonFinance/blob/master/06_Python_Finance.ipynb)<br><br>
+Simulação de Monte Carlo do desempenho de carteiras aleatórias de ações com base nos ativos que compõem o índice Bovespa.<br><br>
 7. [Análise Estatística da Queda de 12% do Ibov](https://github.com/devscie/PythonFinance/blob/master/07_Python_Finance.ipynb)<br><br>
+Calcular essa probabilidade usando PYTHON.<br><br>
 8. [Obtendo e trabalhando com dados dos balanços](https://github.com/devscie/PythonFinance/blob/master/08_Python_Finance.ipynb)<br><br>
+Análise de empresas com python: Webscraping (raspagem de dados) para obter dados das empresas listadas na bolsa (B3) e baixar os dados dos balanços das empresas disponíveis no site fundamentus. E também criar um ranking das melhores empresas segundo a formula magic de Joel Greenblatt.<br><br>
 9. [Alpha Vantage: Obtendo Cotações de Empresas Brasileiras Com Python](https://github.com/devscie/PythonFinance/blob/master/09_Python_Finance.ipynb)<br><br>
+Usar a base de dados Alpha Vantage para ter acesso a cotações de empresas brasileiras e estrangeiras.<br><br>
 10. [Como Acessar a Base de Dados do Banco Central do Brasil Com Python](https://github.com/devscie/PythonFinance/blob/master/10_Python_Finance.ipynb)<br><br>
+Construí uma aplicação em PYTHON que realiza consultas à base de dados do Banco Central do Brasil e fazemos um gráfico comparando o rendimento histórico do Índice Bovespa (IBOV) com a renda fixa (CDI).<br><br>
 11. [Acessando Dados do Investing.com Com Python: Fundos de Investimento](https://github.com/devscie/PythonFinance/blob/master/11_Python_Finance.ipynb)<br><br>
+Acessar a base de dados do investing.com com python e obter dados de cotas de fundos de investimento brasileiros.<br><br>
 12. [Curva de Juros Com Python (plotly) e Dados do Investing.com](https://github.com/devscie/PythonFinance/blob/master/12_Python_Finance.ipynb)<br><br>
+Acessar a base de dados do investing.com com python e obter cotações de empresas brasileiras e índices de ações como o índice bovespa e o índice de fundos imobiliários ifix.<br><br>
 13. [Acessando Dados do Investing.com Com Python #2: Índices e Ações](https://github.com/devscie/PythonFinance/blob/master/13_Python_Finance.ipynb)<br><br>
+Montar estrutura a termo da curva de juros com dados do investing.Com utilizando python.<br><br>
 14. [Google Colab e Google Planilhas Integrados: Salvando Dados na Nuvem Com Python](https://github.com/devscie/PythonFinance/blob/master/14_Python_Finance.ipynb)<br><br>
+Integrar o GOOGLE COLAB e GOOGLE PLANILHAS e salvar seus DADOS NA NUVEM via PYTHON.<br><br>
 15. [Salvando Preços Históricos (com Python) de Todas as Ações do Índice Bovespa no Google Planilhas](https://github.com/devscie/PythonFinance/blob/master/15_Python_Finance.ipynb)<br><br>
+Prática da integração entre Google Colab e Google Planilhas:  Baixar as cotaçãos históricas de todas as empresas que compoem o Índice Bosvespa e salvar em uma planilha do google.<br><br>
+16. [Dados CVM de fundos de investimento: como obter e tratar com python](https://github.com/devscie/PythonFinance/blob/master/16_Python_Finance.ipynb)<br><br>
+Baixar e tratar dados da CVM, a Comissão de Valores Mobiliários relativos aos fundos de investimento.<br><br>
+17. [10 melhores e piores fundos de investimento em 2020: obtendo e tratando dados da cvm com python](https://github.com/devscie/PythonFinance/blob/master/17_Python_Finance.ipynb)<br><br>
 
 *In construction!*
