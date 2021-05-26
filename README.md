@@ -37,5 +37,9 @@ Prática da integração entre Google Colab e Google Planilhas:  Baixar as cota�
 16. [Dados CVM de fundos de investimento: como obter e tratar com python](https://github.com/devscie/PythonFinance/blob/master/16_Python_Finance.ipynb)<br><br>
 Baixar e tratar dados da CVM, a Comissão de Valores Mobiliários relativos aos fundos de investimento.<br><br>
 17. [10 melhores e piores fundos de investimento em 2020: obtendo e tratando dados da cvm com python](https://github.com/devscie/PythonFinance/blob/master/17_Python_Finance.ipynb)<br><br>
-
+Criar um script em Python que realiza a busca dos dados da base de dados de CVM. Depois fazer um filtro para listar os melhores e piores: fundos de ações, fundos multimercado, fundos de renda fixa e fundos cambiais.<br><br>
+18. [COLETANDO DADOS DA B3: Web Scraping das Carteiras Teoricas de Índices](https://github.com/devscie/PythonFinance/blob/master/18_Python_Finance.ipynb)<br><br>
+Fazer raspagem dos dados (Web Scraping) do site da B3 para obter a composição da carteira do Índice Bovespa e Índices amplos, governança, sustentabilidade, segmentos e setoriais.<br><br>
+19. [COLETANDO DADOS DA B3: Yahoo Finance - Exportando do GOOGLE COLAB para uma PLANILHA](https://github.com/devscie/PythonFinance/blob/master/19_Python_Finance.ipynb)<br><br>
+Exportar dados da bolsa de valores através do yahoo finance e pandas (dataframes) para o excel.<br><br>
 *In construction!*
