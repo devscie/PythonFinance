@@ -42,11 +42,9 @@ Criar um script em Python que realiza a busca dos dados da base de dados de CVM.
 Fazer raspagem dos dados (Web Scraping) do site da B3 para obter a composição da carteira do Índice Bovespa e Índices amplos, governança, sustentabilidade, segmentos e setoriais.<br><br>
 19. [COLETANDO DADOS DA B3: Yahoo Finance - Exportando do GOOGLE COLAB para uma PLANILHA](https://github.com/devscie/PythonFinance/blob/master/19_Python_Finance.ipynb)<br><br>
 Exportar dados da bolsa de valores através do yahoo finance e pandas (dataframes) para o excel.<br><br>
-20. [TESOURO DIRETO: Analisando Resgates, Preços e Taxas dos Títulos Públicos]
-(https://github.com/devscie/PythonFinance/blob/master/20_Python_Finance.ipynb)<br><br>
+20. [TESOURO DIRETO: Analisando Resgates, Preços e Taxas dos Títulos Públicos](https://github.com/devscie/PythonFinance/blob/master/20_Python_Finance.ipynb)<br><br>
 Gráficos do Tesouro Selic, Tesouro Pré-fixado, Tesoudo IPCA+. Informações sobre o volume total de vendas do Tesouro Direto, bem como, o quantitatvo de Recompras (Resgates) do Tesouro Selic. Comparativo entre os resgates do Tesouro Selic e variação semanal do Índice Bovespa.<br><br>
-21. [Melhores e Piores dias S&P500 e Índice Bovespa]
-(https://github.com/devscie/PythonFinance/blob/master/21_Python_Finance.ipynb)<br><br>
+21. [Melhores e Piores dias S&P500 e Índice Bovespa](https://github.com/devscie/PythonFinance/blob/master/21_Python_Finance.ipynb)<br><br>
 Análise sobre as PIORES QUEDAS e as MAIORES ALTAS do Índice Bovespa e do Índice S&P 500 da bolsa americana.<br><br>
 
 *In construction!*
