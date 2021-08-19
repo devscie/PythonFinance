@@ -47,7 +47,7 @@ Gráficos do Tesouro Selic, Tesouro Pré-fixado, Tesoudo IPCA+. Informações so
 21. [Melhores e Piores dias S&P500 e Índice Bovespa](https://github.com/devscie/PythonFinance/blob/master/21_Python_Finance.ipynb)<br><br>
 Análise sobre as PIORES QUEDAS e as MAIORES ALTAS do Índice Bovespa e do Índice S&P 500 da bolsa americana.<br><br>
 22. [Dados do FED: O Banco Central Americano](https://github.com/devscie/PythonFinance/blob/master/22_Python_Finance.ipynb)<br><br>
-Extrair dados do FED, o Banco Central Americano e tratar os dados de inflação, PIB, taxa de desemprego, Treasury Bonds, Impressão de Moeda e Ativos do FED.<br>FRED, abreviação de Federal Reserve Economic Data, FRED é um banco de dados online que consiste em centenas de milhares de séries temporais de dados econômicos de fontes nacionais, internacionais, públicas e privadas. O FRED é uma fonte confiável de dados econômicos desde 1991.<br><br>
+Extrair dados do FED, o Banco Central Americano e tratar os dados de inflação, PIB, taxa de desemprego, Treasury Bonds, Impressão de Moeda e Ativos do FED.<br><br>FRED, abreviação de Federal Reserve Economic Data, FRED é um banco de dados online que consiste em centenas de milhares de séries temporais de dados econômicos de fontes nacionais, internacionais, públicas e privadas. O FRED é uma fonte confiável de dados econômicos desde 1991.<br><br>
 
 
 *In construction!*
