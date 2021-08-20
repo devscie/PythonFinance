@@ -7,7 +7,7 @@
 
 ## Sobre o repositório
 
-Estudos dedicados ao mercado financeiro com Python
+Estudos dedicados a analise de dados do mercado financeiro com Python
 
 ## Projetos
 
