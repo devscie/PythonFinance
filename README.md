@@ -1,8 +1,15 @@
 # PythonFinance
 
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![made-for-Google Colab](https://img.shields.io/badge/Made%20for-Google%20Colab-1f425f.svg)](https://colab.research.google.com
+)
+[![GitHub license](https://img.shields.io/github/license/devscie/PythonFinance)](https://github.com/devscie/PythonFinance/blob/master/LICENSE)
+
+## Sobre o repositório
+
 Estudos dedicados ao mercado financeiro com Python
 
-## PROJETOS
+## Projetos
 
 1. [Obtendo cotações do Yahoo Finance](https://github.com/devscie/PythonFinance/blob/master/01_Python_Finance.ipynb)<br><br>
 Baixar as cotações de ações e do ÍNDICE BOVESPA do Yahoo Finance e usar na análise de investimentos e trade utilizando PYTHON através o Google Colab.<br><br>
@@ -53,4 +60,27 @@ Duas estrategias utilizadas para realizar o BackTesting: Rebalanceameto e Buy&Ho
 24. [BackTesting de Carteira com Python (BT): Alocação de Ativos Considerando Pesos Diferentes e Aportes Mensais.](https://github.com/devscie/PythonFinance/blob/master/24_Python_Finance.ipynb)<br><br>
 Duas estrategias utilizadas para realizar o BackTesting: Rebalanceameto e Buy&Hold. Primeira estratégia compra e venda de ativos para rebalancear a carteira e realizar aporte todos os meses; Segunda estratégia realizar aporte e manter os ativos em carteira.<br><br>
 
-*In construction!*
+##	🚧 Em construção! 🚧
+
+<b>Como contribuir para o projeto</b>
+
+1. Faça um **fork** do projeto.
+2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
+3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
+4. Envie as suas alterações: `git push origin my-feature`
+>> Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](https://github.com/firstcontributions/first-contributions)
+
+## Licença
+
+Este projeto esta sobe a licença MIT.
+
+## Autor
+
+<img src="https://avatars3.githubusercontent.com/u/78492236" width="100px;" alt="Avatar" style="border-radius: 50%;">
+<b>Vinicius George dos Santos</b>
+<br><br>
+
+👋🏽 Entre em contato!
+
+[![Linkedin Badge](https://img.shields.io/badge/-Vinicius-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-george-dos-santos-932b29167/)](https://www.linkedin.com/in/vinicius-george-dos-santos-932b29167/) 
+[![Gmail Badge](https://img.shields.io/badge/-devscient@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devscient@gmail.com)](mailto:devscient@gmail.com)
