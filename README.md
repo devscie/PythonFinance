@@ -50,5 +50,7 @@ Análise sobre as PIORES QUEDAS e as MAIORES ALTAS do Índice Bovespa e do Índi
 Extrair dados do FED, o Banco Central Americano e tratar os dados de inflação, PIB, taxa de desemprego, Treasury Bonds, Impressão de Moeda e Ativos do FED.<br><br>FRED, abreviação de Federal Reserve Economic Data, FRED é um banco de dados online que consiste em centenas de milhares de séries temporais de dados econômicos de fontes nacionais, internacionais, públicas e privadas. O FRED é uma fonte confiável de dados econômicos desde 1991.<br><br>
 23. [BackTesting de Carteira com framework BT: Alocação de Ativos](https://github.com/devscie/PythonFinance/blob/master/23_Python_Finance.ipynb)<br><br>
 Duas estrategias utilizadas para realizar o BackTesting: Rebalanceameto e Buy&Hold. Primeira estratégia compra e venda de ativos todos os meses para rebalancear a carteira e fazer caixa em Renda Fixa; Segunda estratégia realizar compra dos ativos e manter os ativos em carteira durante um período de tempo.<br><br>
+24. [BackTesting de Carteira com Python (BT): Alocação de Ativos Considerando Pesos Diferentes e Aportes Mensais.](https://github.com/devscie/PythonFinance/blob/master/24_Python_Finance.ipynb)<br><br>
+Duas estrategias utilizadas para realizar o BackTesting: Rebalanceameto e Buy&Hold. Primeira estratégia compra e venda de ativos para rebalancear a carteira e realizar aporte todos os meses; Segunda estratégia realizar aporte e manter os ativos em carteira.<br><br>
 
 *In construction!*
